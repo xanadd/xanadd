@@ -1,6 +1,6 @@
 # Alex Addington
 
-Senior Software Engineer at **TPC (Technology Pathfinders Consulting)**, founder of **Softmarc LLC**, and Computer Science graduate from the **University of Georgia**.
+Senior Software Engineer at **TPC (Technology Pathfinders Consulting)** and the founder/lead of **Softmarc LLC**.
 
 I build practical software for businesses: SaaS platforms, customer portals, workflow automation, dashboards, integrations, internal tools, and web apps that help teams move faster with less manual work.
 
