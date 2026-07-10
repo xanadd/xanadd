@@ -27,7 +27,7 @@ The goal is simple: give small businesses software that looks sharp, works on da
 ## Links
 
 - Softmarc: [softmarc.com](https://softmarc.com)
-- Softmarc live examples: [sites.1ga.biz](https://sites.1ga.biz)
+- Softmarc live examples: [sites.softmarc.com](https://sites.softmarc.com)
 - GitHub: [@xanadd](https://github.com/xanadd)
 
 ---
